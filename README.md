@@ -5,9 +5,9 @@
 <a href="https://www.instagram.com/rippin_060322"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white"/></a>
 
 17살 학생 프론트엔드 개발자 Rippin입니다 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+- sleep
+- swimming
+- - ✨Magic ✨
 ## 기술
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 

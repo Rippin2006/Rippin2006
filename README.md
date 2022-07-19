@@ -3,6 +3,7 @@
 
 <a href="https://rippin.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/rippin_060322"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Blogger&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
@@ -13,7 +14,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 ## Features
 
--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp - Import a HTML file and watch it magically convert to Markdown
+- Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - Drag and drop markdown and HTML files into Dillinger

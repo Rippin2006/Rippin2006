@@ -7,7 +7,7 @@
 17살 학생 프론트엔드 개발자 Rippin입니다 
 - sleep
 - swimming
-- - ✨Magic ✨
+- ✨Magic ✨
 ## 기술
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 

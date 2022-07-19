@@ -6,9 +6,6 @@
 
 IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등학생 1인 개발자 Rippin입니다
 
-- sleep
-- swimming
-- ✨Magic ✨
 ## 기술
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-3766AB?style=flat-square&logo=Html&logoColor=white"/></a>

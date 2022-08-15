@@ -14,10 +14,8 @@ IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등�
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+![Rippin2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rippin2006&show_icons=true&theme=github_dark)
 
 ## Tech
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브ID&layout=compact&theme=본인이선택한테마명&langs_count=보여주고싶은언어개수)]

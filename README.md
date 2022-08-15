@@ -12,10 +12,10 @@ IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등�
 <img src="https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rust-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>
 
-## Features
+## !!!asdf
 
 ![Rippin2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rippin2006&show_icons=true&theme=github_dark)
 
-## Tech
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브ID&layout=compact&theme=본인이선택한테마명&langs_count=보여주고싶은언어개수)]
+
+

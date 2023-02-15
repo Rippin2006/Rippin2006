@@ -1,4 +1,4 @@
-# Rippin2006
+# Harold Rippin
 ## Student Developer
 
 <a href="https://rippin.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>

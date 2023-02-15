@@ -1,5 +1,5 @@
 # Rippin2006
-## Student Frontend Developer
+## Student Developer
 
 <a href="https://rippin.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/rippin_060322"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white"/></a>

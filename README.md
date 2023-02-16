@@ -8,7 +8,7 @@ IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등�
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html-3766AB?style=flat-square&logo=Html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>

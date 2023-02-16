@@ -12,7 +12,7 @@ IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등�
 <img src="https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-3766AB?style=flat-square&logo=Rust&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Svelte-3766AB?style=flat-square&logo=Svelte&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-#000000?style=flat-square&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 
 ## ㅁㄴㅇㄹ
 

@@ -9,6 +9,8 @@
 LinkedIn
 IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등학생 1인 개발자 Rippin입니다
 
+Discord:Rippin#9128
+
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>

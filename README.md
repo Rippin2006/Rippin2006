@@ -17,7 +17,7 @@ Discord:Rippin#9128
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 
-## ㅁㄴㅇㄹ
+## Github Stats
 
 ![Rippin2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rippin2006&show_icons=true&theme=github_dark)
 

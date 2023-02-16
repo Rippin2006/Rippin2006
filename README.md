@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/tsd-kts-549033256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat square&logo=LinkedIn  &logoColor=white"/></a>
 
 
-IT의 모든 분야를 경험하고 공부하며 실력을 쌓고있는 고등학생 1인 개발자 Rippin입니다
+블록체인과 web보안에 관심이 많은 고등학생 개발자 입니다
 
 Discord:Rippin#9128
 

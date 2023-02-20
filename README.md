@@ -11,7 +11,7 @@
 <p>Discord:Rippin#9128</p>
 <p>Email:haroldrippin@kakao.com</p>
 
-##Education / School
+## Education / School
 
 
 

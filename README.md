@@ -9,6 +9,7 @@
 블록체인과 web보안에 관심이 많은 고등학생 개발자 입니다
 
 Discord:Rippin#9128
+Email:haroldrippin@kakao.com
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>

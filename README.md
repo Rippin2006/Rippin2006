@@ -11,6 +11,10 @@
 <p>Discord:Rippin#9128</p>
 <p>Email:haroldrippin@kakao.com</p>
 
+Education / School
+
+
+
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>

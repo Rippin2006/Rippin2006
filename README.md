@@ -13,7 +13,7 @@
 
 ## Education / School
 
-Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR)
+Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR13기)
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>

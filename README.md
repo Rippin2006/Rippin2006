@@ -8,7 +8,7 @@
 
 블록체인과 web보안에 관심이 많은 고등학생 개발자 입니다
 
-<p>Discord:Rippin#9128</p>
+<p>Discord:Harold Rippin#9128</p>
 <p>Email:haroldrippin@kakao.com</p>
 
 ## Education / School

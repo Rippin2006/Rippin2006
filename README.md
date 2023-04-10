@@ -1,5 +1,5 @@
 # Harold Rippin
-## Student Developer
+## Student Software Developer
 
 <a href="https://rippin.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/_haroldrippin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white"/></a>

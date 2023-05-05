@@ -1,5 +1,5 @@
 # Harold Rippin
-## Student Software Engineer
+##Software Engineer
 
 <a href="https://medium.com/@HaroldRippin"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=midium&logoColor=white"/></a>
 <a href="https://www.instagram.com/_haroldrippin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white"/></a>

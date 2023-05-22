@@ -26,7 +26,7 @@ Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR13nd)
 
 
 ##Learning 
-<img src="https://img.shields.io/badge/Swift-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-363636?style=flat-square&logo=Swift&logoColor=white"/>
 
 
 

@@ -39,5 +39,5 @@ Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR13nd)
 ![Rippin2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rippin2006&show_icons=true&theme=github_dark)
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Rippin)](https://solved.ac/Rippin/)
 

@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/tsd-kts-549033256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat square&logo=LinkedIn  &logoColor=white"/></a>
 
 
-블록체인과 web보안에 관심이 많은 고등학생 개발자 입니다
+I am a high school developer interested in blockchain and web security
 
 <p>Discord:Harold Rippin#9128</p>
 <p>Email:haroldrippin@kakao.com</p>

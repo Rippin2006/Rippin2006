@@ -8,9 +8,6 @@
 
 I am a high school developer interested in blockchain and web security
 
-<p>Discord:Harold Rippin#9128</p>
-<p>Email:haroldrippin@kakao.com</p>
-
 ## Education / School
 
 Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR13nd)

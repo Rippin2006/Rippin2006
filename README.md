@@ -8,14 +8,16 @@
 
 I am a high school developer interested in blockchain and web security
 
-<details>
+<h3><details>
   <summary><h4><b> Education / School </b></h4></summary>
   
   Hansei Cyber Security High Schoool (2022/3/2 ~ 2025/2/10)(SSR13nd)
   
-</details>
+</details></h3>
 
-## Skills
+<h3><details>
+  <summary><h4><b> Skills </b></h4></summary>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -23,7 +25,7 @@ I am a high school developer interested in blockchain and web security
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 
 
-
+</details></h3>
 
 ## Learning 
 <img src="https://img.shields.io/badge/Swift-363636?style=flat-square&logo=Swift&logoColor=white"/>

@@ -1,4 +1,4 @@
-# Harold Rippin
+# Harold Lippin
 ## Software Engineer
 
 <a href="https://www.hashnode.com/@HaroldRippin"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=midium&logoColor=white"/></a>

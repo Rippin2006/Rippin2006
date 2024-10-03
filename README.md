@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/tsd-kts-549033256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat square&logo=LinkedIn  &logoColor=white"/></a>
 
 
-I am a high school developer interested in blockchain and web security
 
 <h3><details>
   <summary><h4><b> Education / School </b></h4></summary>
